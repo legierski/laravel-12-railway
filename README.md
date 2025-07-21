@@ -1,6 +1,6 @@
 # Laravel 12 Railway Template
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/q20EHh?referralCode=r8uelI)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/laravel-12-php-84-mysql-84?referralCode=r8uelI)
 
 A clean Laravel 12 template with Docker (Laravel Sail) configured for consistent local development and Railway deployment.
 
